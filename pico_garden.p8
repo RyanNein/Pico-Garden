@@ -4,11 +4,6 @@ __lua__
 -- pico garden
 -- by ryan nein
 
---[[
-	TODO:
-		- fix planting "used" check
-]]--
-
 debug = false
 
 function _init()
